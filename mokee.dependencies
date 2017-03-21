@@ -1,7 +1,11 @@
 [
   {
-    "repository": "android_kernel_nextbit_msm8992",
-    "target_path": "kernel/nextbit/msm8992"
+    "repository": "android_kernel_lenovo_msm8992",
+    "target_path": "kernel/lenovo/msm8992"
+  },
+  {
+    "repository": "android_vendor_lenovo_x3",
+    "target_path": "vendor/lenovo/x3"
   },
   {
     "repository": "android_device_qcom_common",
